@@ -1,0 +1,43 @@
+
+*{
+    
+    color: var(--bs-gray-700);
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    width: 100%;
+}
+.vidcont{
+    
+    padding-top: 10px;
+    /* display: flex; */
+    /* justify-content: center;  */
+    
+}
+.vidconta{
+    height:430px;
+    float: left;
+}
+.story h1,p{
+   
+    padding-left: 10px;
+    padding-top: 10px;
+    letter-spacing: 1px;
+}
+.con{ 
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+    margin-left: 5px;
+
+ } 
+
+.vidcont video{
+    height: 400px;
+    width: auto;
+    border-radius: 5px;
+    padding-right: 20px;
+}
+/* #footer{
+    color: white!important;
+} */
