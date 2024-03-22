@@ -5,3 +5,4 @@ Also use Bootstrap.
 Use javascript for calculations of Cart(subtotal, tax, total) and many other functionalities.
 The purpose of not using anyframework is to clear the basics. To know how things actually work on basic level and what benefits framework provide us VS when framework is not used.
 media is taken from https://www.instagram.com/adorecandles.pk/
+Demo video is available. Download and preview.
